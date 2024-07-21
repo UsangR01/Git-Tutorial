@@ -1,0 +1,51 @@
+[33mcommit df77f53a51935e3b529e002a592dc81e2ed1e437[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Richard Usang <usangr01@gmail.com>
+Date:   Sat Jul 20 10:15:05 2024 +0100
+
+    updated first_file.py with a new function - print_my_name
+
+[33mcommit 8540eadc1d83d5135ee985cf2c94eec53ae6fc75[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Richard Usang <usangr01@gmail.com>
+Date:   Sat Jul 20 09:50:33 2024 +0100
+
+    Revert "third_file.txt added again"
+    
+    This reverts commit 307913ffb47fd39f1e4b8498e8345310fc9168e8.
+
+[33mcommit 4b7a9c188e01282792fc7696295103ef9ccb754c[m
+Author: Richard Usang <usangr01@gmail.com>
+Date:   Sat Jul 20 09:49:45 2024 +0100
+
+    Revert "fourth_file.txt added"
+    
+    This reverts commit f347b26f4e16d0d78c062ba1bc1220d566326bf7.
+
+[33mcommit f347b26f4e16d0d78c062ba1bc1220d566326bf7[m
+Author: Richard Usang <usangr01@gmail.com>
+Date:   Fri Jul 19 20:17:46 2024 +0100
+
+    fourth_file.txt added
+
+[33mcommit 307913ffb47fd39f1e4b8498e8345310fc9168e8[m
+Author: Richard Usang <usangr01@gmail.com>
+Date:   Fri Jul 19 20:13:07 2024 +0100
+
+    third_file.txt added again
+
+[33mcommit 012229dc960de1995c45e1bc2ac5d952e4100010[m[33m ([m[1;32mold-commit[m[33m)[m
+Author: Richard Usang <usangr01@gmail.com>
+Date:   Fri Jul 19 19:21:45 2024 +0100
+
+    Added print_hello_world function
+
+[33mcommit cefde262f19201738649b098a3a43df6fda150bc[m
+Author: Richard Usang <usangr01@gmail.com>
+Date:   Fri Jul 19 19:18:06 2024 +0100
+
+    my second commit
+
+[33mcommit 2b530fad6b84654d20bee5607b2457abefa97006[m
+Author: Richard Usang <usangr01@gmail.com>
+Date:   Fri Jul 19 12:25:49 2024 +0100
+
+    Python file
