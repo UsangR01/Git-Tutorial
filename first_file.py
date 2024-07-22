@@ -4,7 +4,7 @@ def print_hello_world():
 
 print_hello_world()
 
-def print_my_name():
-    print("My name's Richard")
+def print_my_name(name):
+    print(f"My name's {name}!")
 
-print_my_name()
+print_my_name('Richard')
